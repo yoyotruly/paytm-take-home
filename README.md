@@ -14,6 +14,6 @@
 
 ## Part 2 - SQL Syntax
 
-See solution at [`/sql/part_2_sql_syntax.sql`](/sql/part_2_sql_syntax)
+See solution at [`sql/part_2_sql_syntax.sql`](sql/part_2_sql_syntax.sql)
 
 ## Part 3 - Modelling
