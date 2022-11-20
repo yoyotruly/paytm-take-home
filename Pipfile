@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+jupyter = "*"
+matplotlib = "*"
+seaborn = "*"
+pandas-profiling = "*"
+mlflow = "*"
+sklearn = "*"
+xgboost = "*"
 
 [dev-packages]
 
