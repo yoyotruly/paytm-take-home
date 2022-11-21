@@ -12,6 +12,7 @@ pandas-profiling = "*"
 mlflow = "*"
 sklearn = "*"
 xgboost = "*"
+imblearn = "*"
 
 [dev-packages]
 
