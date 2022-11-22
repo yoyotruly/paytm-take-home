@@ -25,3 +25,5 @@ See solution at [`sql/part_2_sql_syntax.sql`](sql/part_2_sql_syntax.sql)
 See EDA notebook at [`notebooks/part_3_00_eda.ipynb`](notebooks/part_3_00_eda.ipynb)
 
 ### 2. Modelling
+
+See modelling notebook at [`notebooks/part_3_01_modelling.ipynb`](notebooks/part_3_01_modelling.ipynb)
