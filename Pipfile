@@ -7,12 +7,12 @@ name = "pypi"
 pandas = "*"
 jupyter = "*"
 matplotlib = "*"
-seaborn = "*"
 pandas-profiling = "*"
-mlflow = "*"
-sklearn = "*"
 xgboost = "*"
 imblearn = "*"
+feature-engine = "*"
+hyperopt = "*"
+mlflow = "==1.30.0"
 
 [dev-packages]
 
